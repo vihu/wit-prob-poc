@@ -1,5 +1,6 @@
-# AnomalyModel
-Detect Anomalous Transactions
+# Witness Probabilities POC
+
+Detect Anomalous Witnesses
 
 # Setup
 
